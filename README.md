@@ -1,0 +1,1 @@
+whitecatboard_supported

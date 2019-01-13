@@ -385,7 +385,7 @@
 	},
 	{
 		"id": "M5STACK",
-		"description": "M5Stack ESP32 Development Kit",
+		"description": "M5Stack ESP32 DevKit",
 		"manufacturer": "M5Stack",
 		"brand": "",
 		"type": "M5STACK",

@@ -388,22 +388,34 @@
 		"description": "M5Stack ESP32 DevKit",
 		"manufacturer": "M5Stack",
 		"brand": "",
-		"type": "M5STACK",
+		"type": "GENERIC",
 		"subtype": "",
 		"filesystem": "m5stack",
-		"usb_vid_pid": "",
+		"usb_vid_pid": "10C4:EA60",
 		"usb_port_exp": "",
 		"image": ""
 	},
 	{
 		"id": "KIDBRIGHT32",
-		"description": "KidBright32 Thailand’s ESP32-based EduBoard",
+		"description": "Thailand’s ESP-32-based EduBoard",
 		"manufacturer": "NECTEC/Gravitech",
 		"brand": "",
-		"type": "KIDBRIGHT32",
+		"type": "GENERIC",
 		"subtype": "",
 		"filesystem": "kb",
 		"usb_vid_pid": "0403:6015",
+		"usb_port_exp": "",
+		"image": ""
+	},
+	{
+		"id": "M5STICKC",
+		"description": "M5Stack ESP32 DevKit",
+		"manufacturer": "M5Stack",
+		"brand": "",
+		"type": "GENERIC",
+		"subtype": "",
+		"filesystem": "m5stack",
+		"usb_vid_pid": "0403:6001",
 		"usb_port_exp": "",
 		"image": ""
 	}

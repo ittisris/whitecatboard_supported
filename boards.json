@@ -384,6 +384,18 @@
 		"image": ""
 	},
 	{
+		"id": "TTGO-LORA32V20",
+		"description": "TTGO-LORA32-V2.0",
+		"manufacturer": "LilyGO",
+		"brand": "",
+		"type": "GENERIC",
+		"subtype": "",
+		"filesystem": "ttgo",
+		"usb_vid_pid": "10C4:EA60",
+		"usb_port_exp": "",
+		"image": ""
+	},
+	{
 		"id": "M5STACK",
 		"description": "M5Stack Core Board",
 		"manufacturer": "M5Stack",

@@ -415,7 +415,7 @@
 		"type": "M5STACK",
 		"subtype": "",
 		"filesystem": "m5stack",
-		"usb_vid_pid": "0403:6001",,
+		"usb_vid_pid": "0403:6001",
 		"usb_port_exp": "",
 		"image": ""
 	}

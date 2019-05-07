@@ -385,15 +385,15 @@
 	},
 	{
 		"id": "M5STACK",
-		"description": "M5Stack ESP32 DevKit",
+		"description": "M5Stack Core Board",
 		"manufacturer": "M5Stack",
 		"brand": "",
-		"type": "GENERIC",
+		"type": "M5STACK",
 		"subtype": "",
 		"filesystem": "m5stack",
 		"usb_vid_pid": "10C4:EA60",
 		"usb_port_exp": "",
-		"image": ""
+		"image": "https://www.m5stack.com/assets/images/p_core.png"
 	},
 	{
 		"id": "KIDBRIGHT32",
@@ -409,14 +409,14 @@
 	},
 	{
 		"id": "M5STICKC",
-		"description": "M5Stack ESP32 DevKit",
+		"description": "M5Stack Core Board",
 		"manufacturer": "M5Stack",
 		"brand": "",
-		"type": "GENERIC",
+		"type": "M5STACK",
 		"subtype": "",
 		"filesystem": "m5stack",
-		"usb_vid_pid": "0403:6001",
+		"usb_vid_pid": "0403:6001",,
 		"usb_port_exp": "",
 		"image": ""
-	}
+	},
 ]

@@ -407,16 +407,16 @@
 		"usb_port_exp": "",
 		"image": ""
 	},
-	{
+ 	{
 		"id": "M5STICKC",
 		"description": "M5Stack Core Board",
 		"manufacturer": "M5Stack",
 		"brand": "",
 		"type": "M5STACK",
-		"subtype": "",
-		"filesystem": "m5stack",
+		"subtype": "M5STICKC",
+		"filesystem": "m5stickc",
 		"usb_vid_pid": "0403:6001",
 		"usb_port_exp": "",
-		"image": ""
+		"image": "https://www.m5stack.com/assets/images/p_core.png"
 	}
 ]

@@ -400,7 +400,7 @@
 		"description": "Thailand’s ESP-32-based EduBoard",
 		"manufacturer": "NECTEC/Gravitech",
 		"brand": "",
-		"type": "KIDBRIGHT32",
+		"type": "GENERIC",
 		"subtype": "",
 		"filesystem": "kb",
 		"usb_vid_pid": "0403:6015",

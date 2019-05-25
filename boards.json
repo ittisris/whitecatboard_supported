@@ -396,18 +396,6 @@
 		"image": ""
 	},
 	{
-		"id": "M5STACK",
-		"description": "M5Stack Core Board",
-		"manufacturer": "M5Stack",
-		"brand": "",
-		"type": "M5STACK",
-		"subtype": "",
-		"filesystem": "m5stack",
-		"usb_vid_pid": "10C4:EA60",
-		"usb_port_exp": "",
-		"image": "https://www.m5stack.com/assets/images/p_core.png"
-	},
-	{
 		"id": "KIDBRIGHT32",
 		"description": "KIDBRIGHT, Thailand’s ESP-32-based EduBoard",
 		"manufacturer": "NECTEC/Gravitech",
